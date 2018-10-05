@@ -8,4 +8,9 @@ Let us test a merge
 
 Data analysis is fun!
 
-slkdsjflk
+
+slkdsjflk - resolved and added!
+
+More issues!
+
+Get an error!
